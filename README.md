@@ -28,6 +28,13 @@ and to explore the forms of these relationships. If more independent variables a
 is able to determine an estimating equation that describes the relationship with greater
 accuracy. Multiple regressions look at each independent variable and test whether it
 contributes significantly to the way the regression describes the data [3].
+ 
+ Comparing different algorithms
+
+![image](https://user-images.githubusercontent.com/96935019/190900541-8fa83ec5-cb44-4484-b02b-8a128f75acae.png)
+
+ 
+OUTPUT
 
 ![image](https://user-images.githubusercontent.com/96935019/190900472-65411bc2-7b20-46b6-8a39-8aebdb2c911e.png)
 
